@@ -1,0 +1,31 @@
+name: Main Workflow
+on:
+  push:
+    branches: [ master ]
+jobs:
+  main_workflow:
+    name: Main Workflow
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - id: workflow_timestamp
+        name: Workflow Time Stamp Endpoint Creation
+        run: |
+          dat="$(date -u)"
+          dat="${dat//\//\\/}"
+          if [[ ! -d "./docs/json" ]]; then
+            mkdir -p "./docs/json" || exit 1
+          fi
+          workflow_init_template='{\n\t"schemaVersion": 1,\n\t"color": "00aedb",\n\t"label": "PLACEHOLDER",\n\t"message": "PLACEHOLDER",\n\t"labelColor": "1d1d1d",\n\t"style": "for-the-badge",\n\t"namedLogo": "github"\n}'
+          if ! [[ -f "docs/json/workflow_timestamp.json" ]]; then
+            touch docs/json/workflow_timestamp.json || exit 2
+          fi
+          echo -e "$workflow_init_template" > docs/json/workflow_timestamp.json || exit 3
+          sed -i "s/\"label\": \".*\"/\"label\": \"Last Workflow Time Stamp\"/g" docs/json/workflow_timestamp.json || exit 4
+          sed -i "s/\"message\": \".*\"/\"message\": \"${dat}\"/g" docs/json/workflow_timestamp.json || exit 5
+      - id: check_and_commit
+        name: Commit Changes
+        if: steps.workflow_timestamp.conclusion == 'success'
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Completed Main Workflow
