@@ -5,6 +5,8 @@
   - [Currently](#currently)
   - [Myself](#myself)
     - [Vague Statistics](#vague-statistics)
+    - [Social Media](#social-media)
+      - [Twitter](#twitter)
 - [Environments](#environments)
   - [Operating Systems](#operating-systems)
   - [What and Where](#what-and-where)
@@ -36,6 +38,14 @@ I specialize in the command line and especially automating things&#46; I do thes
 ![OverallStats](https://github-readme-stats.vercel.app/api?username=Lateralus138&show_icons=true&bg_color=1d1d1d&theme=vision-friendly-dark&border_radius=16&fg_color=e2d2e2)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lateralus138&layout=compact&bg_color=1d1d1d&hide=html,css,scss,makefile,javascript&langs_count=10&theme=vision-friendly-dark&border_radius=16&fg_color=e2d2e2)
+
+#### Social Media
+
+You can find me on&#58;
+
+##### Twitter
+
+[![Twitter Profile](docs/media/images/twitter_button.png)](https://twitter.com/TheFluxApex) [![Twitter Follow](docs/media/images/twitter_follow.png)](https://twitter.com/intent/user?screen_name=TheFluxApex)
 
 ---
 
