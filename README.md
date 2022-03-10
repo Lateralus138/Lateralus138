@@ -7,6 +7,8 @@
     - [Vague Statistics](#vague-statistics)
     - [Social Media](#social-media)
       - [Twitter](#twitter)
+      - [Facebook](#facebook)
+      - [DeviantArt](#deviantart)
 - [Environments](#environments)
   - [Operating Systems](#operating-systems)
   - [What and Where](#what-and-where)
@@ -46,6 +48,14 @@ You can find me on&#58;
 ##### Twitter
 
 [![Twitter Profile](docs/media/images/twitter_button.png)](https://twitter.com/TheFluxApex) [![Twitter Follow](docs/media/images/twitter_follow.png)](https://twitter.com/intent/user?screen_name=TheFluxApex)
+
+##### Facebook
+
+[![Facebook Profile](docs/media/images/fb_profile.png)](https://www.facebook.com/lateralus138)
+
+##### DeviantArt
+
+[![DeviantArt Profile](docs/media/images/deviantart_button.png)](https://www.deviantart.com/lateralus138)
 
 ---
 
