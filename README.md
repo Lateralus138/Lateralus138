@@ -20,7 +20,7 @@
 
 ## About
 
-About this repository.
+About this GitHub profile.
 
 ### Description
 
