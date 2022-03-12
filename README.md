@@ -9,6 +9,7 @@
       - [Twitter](#twitter)
       - [Facebook](#facebook)
       - [DeviantArt](#deviantart)
+      - [Email Me](#email-me)
 - [Environments](#environments)
   - [Operating Systems](#operating-systems)
   - [What and Where](#what-and-where)
@@ -56,6 +57,10 @@ You can find me on&#58;
 ##### DeviantArt
 
 [![DeviantArt Profile](docs/media/images/deviantart_button.png)](https://www.deviantart.com/lateralus138)
+
+##### Email Me
+
+[![Email Me](docs/media/images/emailme_logo.png)](mailto:faithnomoread@yahoo.com)
 
 ---
 
