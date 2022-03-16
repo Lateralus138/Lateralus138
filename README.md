@@ -105,9 +105,9 @@ On occasion you might find a GUI&#46;
 A few projects you'll find here.
 
 |Letter|Projects|
-|:------|:--------:|
+|:------|:--------|
 |A|<table><tr><th>Name</th><th>Description</th><th>Language</th><th>Link</th></tr><tr><td>AutoHotkey<br>Gui Class</td><td style="word-break: break-word;">Create AutoHotkey gui objects with a<br>few options.</td><td>AutoHotkey</td><td><a href="https://github.com/Lateralus138/AutoHotkey-Gui-Class"><img src="https://img.shields.io/github/downloads/Lateralus138/AutoHotkey-Gui-Class/total?style=for-the-badge&amp;label=AHK-Gui-Class&amp;labelColor=1d1d1d" alt="AutoHotkey-Gui-Class"></a></td></tr><tr><td>AutoHotkey<br>Menu Class</td><td style="word-break: break-word;">Create objects of system tray/context<br>menus in the AutoHotkey scripting<br>language.</td><td>AutoHotkey</td><td><p><a href="https://github.com/Lateralus138/AutoHotkey-Menu-Class"><img src="https://img.shields.io/github/downloads/Lateralus138/AutoHotkey-Menu-Class/total?style=for-the-badge&amp;label=AHK-Menu-Class&amp;labelColor=1d1d1d" alt="AutoHotkey-Menu-Class"></a></p></td></tr></table>|
-|B||
+|B|<table><tr><th>Name</th><th>Description</th><th>Language</th><th>Link</th></tr><tr><td>Bench CLI</td><td style="word-break: break-word;">Cross-platform command line tool to<br>benchmark commands and other<br>executables/scripts in command lines<br>written in `Fortran`. Very precise and<br>fast.</td><td>Fortran</td><td><p><a href="https://github.com/Lateralus138/bench-cli"><img src="https://img.shields.io/github/downloads/Lateralus138/bench-cli/total?style=for-the-badge&amp;label=bench-cli&amp;labelColor=1d1d1d" alt="bench-cli"></a></p></td></tr><tr><td>Black Hosts</td><td style="word-break: break-word;">This is a cross-platform hosts file<br>installer for hosts files found at the<br>StevenBlack repository.</td><td>Rust</td><td><p><a href="https://github.com/Lateralus138/blackhosts"><img src="https://img.shields.io/github/downloads/Lateralus138/blackhosts/total?style=for-the-badge&amp;label=blackhosts&amp;labelColor=1d1d1d" alt="blackhosts"></a></p></td></tr></table>|
 |C||
 |D||
 |E||
