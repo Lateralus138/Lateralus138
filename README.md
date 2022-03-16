@@ -29,7 +29,7 @@ My home of miscellaneous open source programming projects&#46; Here you will fin
 
 ### Currently
 
-Planning new versions of [***UniShellect***](https://github.com/Lateralus138/UniShellect), [***ColorStatic***](https://github.com/Lateralus138/colorstatic-bash), [***Bench-CLI***](https://github.com/Lateralus138/bench-cli), and [***Youtube Search Filter***](https://github.com/Lateralus138/YouTubeSearchFilter)&#46; Two of which are scripts that will be re&#45;written in C&#43;&#43;&#46;
+Planning new versions of [***UniShellect***](https://github.com/Lateralus138/UniShellect), [***ColorStatic***](https://github.com/Lateralus138/colorstatic-bash), [***Bench-CLI***](https://github.com/Lateralus138/bench-cli), and [***YouTube Search Filter***](https://github.com/Lateralus138/YouTubeSearchFilter)&#46; Two of which are scripts that will be re&#45;written in C&#43;&#43;&#46;
 
 ### Myself
 
