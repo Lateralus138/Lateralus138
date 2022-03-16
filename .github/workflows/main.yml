@@ -23,9 +23,16 @@ jobs:
           echo -e "$workflow_init_template" > docs/json/workflow_timestamp.json || exit 3
           sed -i "s/\"label\": \".*\"/\"label\": \"Last Workflow Time Stamp\"/g" docs/json/workflow_timestamp.json || exit 4
           sed -i "s/\"message\": \".*\"/\"message\": \"${dat}\"/g" docs/json/workflow_timestamp.json || exit 5
-      - id: check_and_commit
-        name: Commit Changes
-        if: steps.workflow_timestamp.conclusion == 'success'
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: Completed Main Workflow
+      - name: Push Commit
+        run: |
+          git config --global user.name "Lateralus138"
+          git config --global user.email "faithnomoread@yahoo.com"
+          git add --force ./docs/json
+          git commit --allow-empty -m "Uploaded MD5 - $(date)"
+          git push --force
+# - id: check_and_commit
+#   name: Commit Changes
+#   if: steps.workflow_timestamp.conclusion == 'success'
+#   uses: stefanzweifel/git-auto-commit-action@v4
+#   with:
+#     commit_message: Completed Main Workflow
