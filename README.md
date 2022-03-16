@@ -105,7 +105,7 @@ On occasion you might find a GUI&#46;
 A few projects you'll find here.
 
 |Letter|Projects|
-|------|--------|
+|:------|:--------:|
 |A|<table><tr><th>Name</th><th>Description</th><th>Language</th><th>Link</th></tr><tr><td>AutoHotkey Gui Class</td><td style="word-break: break-word;">Create AutoHotkey gui objects with a<br>few options.</td><td>AutoHotkey</td><td><a href="https://github.com/Lateralus138/AutoHotkey-Gui-Class"><img src="https://img.shields.io/github/downloads/Lateralus138/AutoHotkey-Gui-Class/total?style=for-the-badge&amp;label=AHK-Gui-Class&amp;labelColor=1d1d1d" alt="AutoHotkey-Gui-Class"></a></td></tr><tr><td>AutoHotkey Menu Class</td><td style="word-break: break-word;">Create objects of system tray/context<br>menus in the AutoHotkey scripting language.</td><td>AutoHotkey</td><td><p><a href="https://github.com/Lateralus138/AutoHotkey-Menu-Class"><img src="https://img.shields.io/github/downloads/Lateralus138/AutoHotkey-Menu-Class/total?style=for-the-badge&amp;label=AHK-Menu-Class&amp;labelColor=1d1d1d" alt="AutoHotkey-Menu-Class"></a></p></td></tr></table>|
 |B||
 |C||
