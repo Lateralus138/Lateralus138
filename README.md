@@ -33,7 +33,7 @@ Planning new versions of [***UniShellect***](https://github.com/Lateralus138/Uni
 
 ### Myself
 
-DADDY of twin demon spawn&#33; Older school &#40;25 years&#41; overall &#40;hard &#38; soft&#41; com tech & gamer&#44; Windows&#44; Linux&#44; &#38; even Apple&#46; I guess you could call me a &#34;hobbyist&#34;&#46;
+DADDY of twin demon spawn&#33; Older school &#40;25&#43; years&#41; overall com tech &#40;hard &#38; soft&#41; & gamer&#44; Windows&#44; Linux&#44; &#38; even Apple&#46; I guess you could call me a &#34;hobbyist&#34;&#46;
 
 I specialize in the command line and especially automating things&#46; I do these things in both compiled programming languages and scripts with scripting languages in the various environments&#46;
 
