@@ -15,6 +15,7 @@
   - [What and Where](#what-and-where)
     - [Languages](#languages)
     - [Environment](#environment)
+- [Projects](#projects)
 
 ---
 
@@ -96,6 +97,19 @@ On occasion you might find a GUI&#46;
     - ***Other***&#44; I am somewhat familiar with ***ZSH*** and other shells and can fix most things in those functions&#47;scripts&#46;
 - ***Other***&#44; &#40;MacOs included somewhat&#41; 
   - &#34;I get around&#34;&#46;&#46;&#46; It doesn&#39;t matter what operating system I am in, I can do whatever&#44; wherever&#46;
+
+---
+
+## Projects
+
+A few projects you'll find here.
+
+|Project|Description|Language|Link|
+|---|---|---|---|
+|This|is|coming|soon|
+|A|work|in|progress|
+
+---
 
 <sup>This profile last updated</sup>
 
