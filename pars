@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+while read -r line; do
+	echo -e '\<table\>\<tr\>\<th\>Name\<\/th\>\<th\>Description\<\/th\>\<th\>Language\<\/th\>\<th\>Link\<\/th\>\<\/tr\>\<tr\>\<td\>'\
+		"${line}"\
+		'</td><td style="word-break: break-word;">PLACEHOLDER</td><td>AutoHotkey</td><td><a href="https://github.com/Lateralus138/'\
+		"${line}"\
+		'"><img src="https://img.shields.io/github/downloads/Lateralus138/'\
+		"${line}"\
+		'/total?style=for-the-badge&amp;label='\
+		"${line}"\
+		'&amp;labelColor=1d1d1d" alt="'\
+		"${line}"\
+		'"></a></td></tr></table>|'
+done < ../Lateralus138_repo_list.txt
