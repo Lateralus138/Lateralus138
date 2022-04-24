@@ -23,6 +23,8 @@
 
 About this GitHub profile.
 
+[![l138wc](docs/media/images/Lateralus138_white_circle.png)](#social-media)
+
 ### Description
 
 My home of miscellaneous open source programming projects&#46; Here you will find a library of  unorganized and random programs written in various scripting and programming languages for various operating systems&#46;
@@ -78,8 +80,6 @@ I primarily work in *Windows* and *Linux*&#44; but some of my code will compile 
 ### What and Where
 
 This is by far not an exhaustive list of my software nor is it representitive of the quantity and&#x2f;or quality of my overwall work over the years&#x2e; I&#x27;ve been a programmer longer than *FOSS* was a big thing and even then it wasn&#x27;t usual for people to be displaying their code all over the place so I&#x27;ve only been open source less than 2 handfuls of years and even then not all of my work is open source&#x2e;
-
-<div style="box-shadow: 0 0 8px 0px #E0E0E0, inset 0 0 16px 0px #0F0F0F;border: 1px solid #0f0f0f;border-radius: 50%; margin: 0 auto;display: block; vertical-align: middle; text-align: center; width: 128px; height: 128px;background-color: #E0E0E0; color: #0F0F0F;"><p style="position: relative; top: 52px;">This is a test</p></div>
 
 #### Languages 
 
