@@ -2,33 +2,65 @@
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lateralus138&layout=compact&repo=Lateralus138&bg_color=1d1d1d&theme=vision-friendly-dark&border_radius=16&fg_color=e2d2e2)
 
+<!-- vscode-markdown-toc -->
+* 1. [About](#about)
+  * 1.1. [Description](#description)
+  * 1.2. [Currently](#currently)
+  * 1.3. [Myself](#myself)
+    * 1.3.1. [Vague Statistics](#vague-statistics)
+    * 1.3.2. [Social Media](#social-media)
+* 2. [Environments](#environments)
+  * 2.1. [Operating Systems](#operating-systems)
+  * 2.2. [What and Where](#what-and-where)
+    * 2.2.1. [Languages](#languages)
+    * 2.2.2. [Environment](#environment)
+* 3. [Projects](#projects)
+* 4. [About](#about-1)
+  * 4.1. [Description](#description-1)
+  * 4.2. [Currently](#currently-1)
+  * 4.3. [Myself](#myself-1)
+    * 4.3.1. [Vague Statistics](#vague-statistics-1)
+    * 4.3.2. [Social Media](#social-media-1)
+* 5. [Environments](#environments-1)
+  * 5.1. [Operating Systems](#operating-systems-1)
+  * 5.2. [What and Where](#what-and-where-1)
+    * 5.2.1. [Languages](#languages-1)
+    * 5.2.2. [Environment](#environment-1)
+* 6. [Projects](#projects-1)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
+
 ---
 
-## About
+##  1. <a name='about'></a>About
 
 About this GitHub profile.
 
-### Description
+###  1.1. <a name='description'></a>Description
 
 My home of miscellaneous open source programming projects&#46; Here you will find a library of  unorganized and random programs written in various scripting and programming languages for various operating systems&#46;
 
-### Currently
+###  1.2. <a name='currently'></a>Currently
 
 Planning new versions of [***UniShellect***](https://github.com/Lateralus138/UniShellect), [***ColorStatic***](https://github.com/Lateralus138/colorstatic-bash), [***Bench-CLI***](https://github.com/Lateralus138/bench-cli), and [***YouTube Search Filter***](https://github.com/Lateralus138/YouTubeSearchFilter)&#46; Two of which are scripts that will be re&#45;written in C&#43;&#43;&#46;
 
-### Myself
+###  1.3. <a name='myself'></a>Myself
 
 DADDY of twin demon spawn&#33; Older school &#40;25&#43; years&#41; overall com tech &#40;hard &#38; soft&#41; & gamer&#44; Windows&#44; Linux&#44; &#38; even Apple&#46; I guess you could call me a &#34;hobbyist&#34;&#46;
 
 I specialize in the command line and especially automating things&#46; I do these things in both compiled programming languages and scripts with scripting languages in the various environments&#46;
 
-#### Vague Statistics
+####  1.3.1. <a name='vague-statistics'></a>Vague Statistics
 
 ![OverallStats](https://github-readme-stats.vercel.app/api?username=Lateralus138&show_icons=true&bg_color=1d1d1d&theme=vision-friendly-dark&border_radius=16&fg_color=e2d2e2)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lateralus138&layout=compact&bg_color=1d1d1d&hide=html,css,scss,makefile,javascript&langs_count=10&theme=vision-friendly-dark&border_radius=16&fg_color=e2d2e2)
 
-#### Social Media
+####  1.3.2. <a name='social-media'></a>Social Media
 
 You can find me on&#58;
 
@@ -50,23 +82,23 @@ You can find me on&#58;
 
 ---
 
-## Environments
+##  2. <a name='environments'></a>Environments
 
 Where and what I do.
 
-### Operating Systems
+###  2.1. <a name='operating-systems'></a>Operating Systems
 
 ![Windows Logo](./docs/../images/windows_logo.png)![Linux Logo](./docs/../images/linux_logo.png)![MacOS Logo](./images/macos_logo.png)![Android Logo](docs/media/images/android_logo.png)
 
 I primarily work in *Windows* and *Linux*&#44; but some of my code will compile for *MacOS* and occasionally the *Android* command line as well&#46;
 
-### What and Where
+###  2.2. <a name='what-and-where'></a>What and Where
 
-#### Languages 
+####  2.2.1. <a name='languages'></a>Languages 
 
 I&#39;m more than familiar with many languages and even fluent in a few &#40;though I can admit to getting rusty like all the rest&#41;&#44; but for all intents and purposes the primary languages you will see here are ***AutoHotkey***&#44; ***Shell&#47;BASH***&#44; ***C&#43;&#43;***&#44; and ***Fortran*** &#40;for now&#41;&#46;
 
-#### Environment
+####  2.2.2. <a name='environment'></a>Environment
 
 The command line&#46;&#46;&#46; mostly&#46;
 
@@ -85,7 +117,7 @@ On occasion you might find a GUI&#46;
 
 ---
 
-## Projects
+##  3. <a name='projects'></a>Projects
 
 <!-- <sub>This section is:</sub>
 
@@ -779,27 +811,27 @@ A few projects you'll find here.
 
 ---
 
-## About
+##  4. <a name='about-1'></a>About
 
 About this GitHub profile.
 
 [![l138wc](docs/media/images/Lateralus138_white_circle.png)](#social-media)
 
-### Description
+###  4.1. <a name='description-1'></a>Description
 
 My home of miscellaneous open source programming projects&#46; Here you will find a library of  unorganized and random programs written in various scripting and programming languages for various operating systems&#46;
 
-### Currently
+###  4.2. <a name='currently-1'></a>Currently
 
 Planning new versions of [***UniShellect***](https://github.com/Lateralus138/UniShellect), [***ColorStatic***](https://github.com/Lateralus138/colorstatic-bash), [***Bench-CLI***](https://github.com/Lateralus138/bench-cli), and [***YouTube Search Filter***](https://github.com/Lateralus138/YouTubeSearchFilter)&#46; Two of which are scripts that will be re&#45;written in C&#43;&#43;&#46;
 
-### Myself
+###  4.3. <a name='myself-1'></a>Myself
 
 DADDY of twin demon spawn&#33; Older school &#40;25&#43; years&#41; overall com tech &#40;hard &#38; soft&#41; & gamer&#44; Windows&#44; Linux&#44; &#38; even Apple&#46; I guess you could call me a &#34;hobbyist&#34;&#46;
 
 I specialize in the command line and especially automating things&#46; I do these things in both compiled programming languages and scripts with scripting languages in the various environments&#46;
 
-#### Vague Statistics
+####  4.3.1. <a name='vague-statistics-1'></a>Vague Statistics
 
 These are all generaized statistics as monitored by [![GitHub](./docs/media/images/gh_button_long_small.png)](https://www.github.com) and [![WakaTime](./docs/media/images/wakatime.png)](https://www.wakatime.com/).
 
@@ -822,7 +854,7 @@ Time spent in  this specific repository:
 
 [![WAKATIMELANGS](https://wakatime.com/share/@Lateralus138/c44cb5ba-4c21-4203-9ec9-8f3a6ff2ee7a.svg)](https://wakatime.com/share/@Lateralus138/c44cb5ba-4c21-4203-9ec9-8f3a6ff2ee7a.svg)
 
-#### Social Media
+####  4.3.2. <a name='social-media-1'></a>Social Media
 
 You can find me on&#58;
 
@@ -844,25 +876,25 @@ You can find me on&#58;
 
 ---
 
-## Environments
+##  5. <a name='environments-1'></a>Environments
 
 Where and what I do.
 
-### Operating Systems
+###  5.1. <a name='operating-systems-1'></a>Operating Systems
 
 ![Windows Logo](./docs/../images/windows_logo.png)![Linux Logo](./docs/../images/linux_logo.png)![MacOS Logo](./images/macos_logo.png)![Android Logo](docs/media/images/android_logo.png)
 
 I primarily work in *Windows* and *Linux*&#44; but some of my code will compile for *MacOS* and occasionally the *Android* command line as well&#46;
 
-### What and Where
+###  5.2. <a name='what-and-where-1'></a>What and Where
 
 This is by far not an exhaustive list of my software nor is it representitive of the quantity and&#x2f;or quality of my overwall work over the years&#x2e; I&#x27;ve been a programmer longer than *FOSS* was a big thing and even then it wasn&#x27;t usual for people to be displaying their code all over the place so I&#x27;ve only been open source less than 2 handfuls of years and even then not all of my work is open source&#x2e;
 
-#### Languages 
+####  5.2.1. <a name='languages-1'></a>Languages 
 
 I&#39;m more than familiar with many languages and even fluent in a few &#40;though I can admit to getting rusty like all the rest&#41;&#44; but for all intents and purposes the primary languages you will see here are ***AutoHotkey***&#44; ***Shell&#47;BASH***&#44; ***C&#43;&#43;***&#44; and ***Fortran*** &#40;for now&#41;&#46;
 
-#### Environment
+####  5.2.2. <a name='environment-1'></a>Environment
 
 The command line&#46;&#46;&#46; mostly&#46;
 
@@ -881,7 +913,7 @@ On occasion you might find a GUI&#46;
 
 ---
 
-## Projects
+##  6. <a name='projects-1'></a>Projects
 
 <!-- <sub>This section is:</sub>
 
