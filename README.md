@@ -1,22 +1,6 @@
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lateralus138&layout=compact&repo=Lateralus138&bg_color=1d1d1d&theme=vision-friendly-dark&border_radius=16&fg_color=e2d2e2)
+# Laterlus138
 
-- [!Last Workflow Run](#)
-  - [About](#about-1)
-    - [Description](#description-1)
-    - [Currently](#currently-1)
-    - [Myself](#myself-1)
-      - [Vague Statistics](#vague-statistics-1)
-      - [Social Media](#social-media-1)
-        - [Twitter](#twitter-1)
-        - [Facebook](#facebook-1)
-        - [DeviantArt](#deviantart-1)
-        - [Email Me](#email-me-1)
-  - [Environments](#environments-1)
-    - [Operating Systems](#operating-systems-1)
-    - [What and Where](#what-and-where-1)
-      - [Languages](#languages-1)
-      - [Environment](#environment-1)
-  - [Projects](#projects-1)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lateralus138&layout=compact&repo=Lateralus138&bg_color=1d1d1d&theme=vision-friendly-dark&border_radius=16&fg_color=e2d2e2)
 
 ---
 
@@ -944,4 +928,4 @@ A few projects you'll find here.
 <sup>Services hosting this page<sup>
 
 [![WakaTime Logo](./docs/media/images/wakatime_logo.png)](https://www.wakatime.com/) [![GitHub Logo](./docs/media/images/octocat_logo.png)](https://www.github.com)
->>>>>>> f7763b3e4fb7620dd206376dfbb406f5314932f7
+
