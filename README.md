@@ -168,5 +168,3 @@ A few projects you'll find here.
 <sup>Services hosting this page<sup>
 
 [![WakaTime Logo](./docs/media/images/wakatime_logo.png)](https://www.wakatime.com/) [![GitHub Logo](./docs/media/images/octocat_logo.png)](https://www.github.com)
-
-<iframe src="https://skyline.github.com/Lateralus138/2021" width="480" height="270"></iframe>
