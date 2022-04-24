@@ -1,4 +1,4 @@
-# Laterlus138
+# Lateralus138
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lateralus138&layout=compact&repo=Lateralus138&bg_color=1d1d1d&theme=vision-friendly-dark&border_radius=16&fg_color=e2d2e2)
 
