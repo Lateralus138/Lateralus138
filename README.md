@@ -77,6 +77,10 @@ I primarily work in *Windows* and *Linux*&#44; but some of my code will compile 
 
 ### What and Where
 
+This is by far not an exhaustive list of my software nor is it representitive of the quantity and&#x2f;or quality of my overwall work over the years&#x2e; I&#x27;ve been a programmer longer than *FOSS* was a big thing and even then it wasn&#x27;t usual for people to be displaying their code all over the place so I&#x27;ve only been open source less than 2 handfuls of years and even then not all of my work is open source&#x2e;
+
+<div align="center" width="256px" height="256px">This is a test</div>
+
 #### Languages 
 
 I&#39;m more than familiar with many languages and even fluent in a few &#40;though I can admit to getting rusty like all the rest&#41;&#44; but for all intents and purposes the primary languages you will see here are ***AutoHotkey***&#44; ***Shell&#47;BASH***&#44; ***C&#43;&#43;***&#44; and ***Fortran*** &#40;for now&#41;&#46;
