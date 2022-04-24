@@ -41,9 +41,26 @@ I specialize in the command line and especially automating things&#46; I do thes
 
 #### Vague Statistics
 
+These are all generaized statistics as monitored by [![GitHub](./docs/media/images/gh_button_long_small.png)](https://www.github.com) and [![WakaTime](./docs/media/images/wakatime.png)](https://www.wakatime.com/).
+
 ![OverallStats](https://github-readme-stats.vercel.app/api?username=Lateralus138&show_icons=true&bg_color=1d1d1d&theme=vision-friendly-dark&border_radius=16&fg_color=e2d2e2)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lateralus138&layout=compact&bg_color=1d1d1d&hide=html,css,scss,makefile,javascript&langs_count=10&theme=vision-friendly-dark&border_radius=16&fg_color=e2d2e2)
+
+![WakatimeLat](https://github-readme-stats.vercel.app/api/wakatime?username=4b937ad4-c4a2-4004-9879-d85328b6d4cd&border_radius=16&theme=vision-friendly-dark&fg_color=e2d2e2&bg_color=1d1d1d)
+
+Time spent in Wakatime monitored environments:
+
+[![wakatime](https://wakatime.com/badge/user/4b937ad4-c4a2-4004-9879-d85328b6d4cd.svg?style=for-the-badge)](https://wakatime.com/@4b937ad4-c4a2-4004-9879-d85328b6d4cd)
+
+
+Time spent in  this specific repository:
+
+[![wakatime](https://wakatime.com/badge/github/Lateralus138/Lateralus138.svg?style=for-the-badge)](https://wakatime.com/badge/github/Lateralus138/Lateralus138)
+
+[![WAKATIMEACTIVITY](https://wakatime.com/share/@Lateralus138/8e9c0c1a-ebae-4b9e-baab-c2c2333e46d2.svg)](https://wakatime.com/share/@Lateralus138/8e9c0c1a-ebae-4b9e-baab-c2c2333e46d2.svg)
+
+[![WAKATIMELANGS](https://wakatime.com/share/@Lateralus138/c44cb5ba-4c21-4203-9ec9-8f3a6ff2ee7a.svg)](https://wakatime.com/share/@Lateralus138/c44cb5ba-4c21-4203-9ec9-8f3a6ff2ee7a.svg)
 
 #### Social Media
 
