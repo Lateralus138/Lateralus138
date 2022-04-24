@@ -1,21 +1,9 @@
-<<<<<<< HEAD
 {
 	"schemaVersion": 1,
 	"color": "00aedb",
 	"label": "Last Workflow Time Stamp",
-	"message": "Wed Mar 23 01:11:05 UTC 2022",
+	"message": "Sun Apr 24 21:30:36 UTC 2022",
 	"labelColor": "1d1d1d",
 	"style": "for-the-badge",
 	"namedLogo": "github"
 }
-=======
-{
-	"schemaVersion": 1,
-	"color": "00aedb",
-	"label": "Last Workflow Time Stamp",
-	"message": "Sun Apr 24 04:44:15 UTC 2022",
-	"labelColor": "1d1d1d",
-	"style": "for-the-badge",
-	"namedLogo": "github"
-}
->>>>>>> f7763b3e4fb7620dd206376dfbb406f5314932f7
