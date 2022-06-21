@@ -133,6 +133,8 @@ On occasion you might find a GUI&#46;
 
 ---
 
+## Support Me If You Like
+
 If you like any of the projects below and care to donate to my ***PayPal***:
 
 [![PayPal Donation](docs/media/images/paypal_donate_button.png)](https://paypal.me/ianapride?locale.x=en_US)
