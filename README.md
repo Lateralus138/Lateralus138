@@ -83,7 +83,7 @@ You can find me on&#58;
 
 [![Twitter Profile](docs/media/images/twitter_button.png)](https://twitter.com/TheFluxApex) [![Twitter Follow](docs/media/images/twitter_follow.png)](https://twitter.com/intent/user?screen_name=TheFluxApex)
 
-![https://img.shields.io/twitter/follow/TheFluxApex?label=Follow](https://img.shields.io/twitter/follow/TheFluxApex?label=Follow)
+![https://twitter.com/intent/user?screen_name=TheFluxApex](https://img.shields.io/twitter/follow/TheFluxApex?label=Follow)
 
 ##### Facebook
 
