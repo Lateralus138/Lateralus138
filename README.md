@@ -83,6 +83,8 @@ You can find me on&#58;
 
 [![Twitter Profile](docs/media/images/twitter_button.png)](https://twitter.com/TheFluxApex) [![Twitter Follow](docs/media/images/twitter_follow.png)](https://twitter.com/intent/user?screen_name=TheFluxApex)
 
+![https://img.shields.io/twitter/follow/TheFluxApex?label=Follow](https://img.shields.io/twitter/follow/TheFluxApex?label=Follow)
+
 ##### Facebook
 
 [![Facebook Profile](docs/media/images/fb_profile.png)](https://www.facebook.com/lateralus138)
@@ -188,6 +190,10 @@ A few projects you'll find here.
 <sup>This profile last updated</sup>
 
 ![Last Workflow Run](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lateralus138/Lateralus138/master/docs/json/workflow_timestamp.json&color=B54369&labelColor=222F38)
+
+Last Commit:
+
+![](https://img.shields.io/github/last-commit/Lateralus138/Lateralus138?style=for-the-badge&color=B54369&labelColor=222F38)
 
 
 <sup>Services hosting this page<sup>
