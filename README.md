@@ -200,4 +200,4 @@ Last Commit:
 
 [![WakaTime Logo](./docs/media/images/wakatime_logo.png)](https://www.wakatime.com/) [![GitHub Logo](./docs/media/images/octocat_logo.png)](https://www.github.com)
 
-[![TWITTER FOLLOW](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lateralus138/endpoints/master/docs/json/twitter_follow_thefluxapex.json&logo=twitter&link=https%3A%2F%2Ftwitter.com%2Fintent%2Fuser%3Fscreen_name%3DTheFluxApex)](https%3A%2F%2Ftwitter.com%2Fintent%2Fuser%3Fscreen_name%3DTheFluxApex)
+[![TWITTER FOLLOW](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lateralus138/endpoints/master/docs/json/twitter_follow_thefluxapex.json&logo=twitter&link=https%3A%2F%2Ftwitter.com%2Fintent%2Fuser%3Fscreen_name%3DTheFluxApex)](https://twitter.com/intent/user?screen_name=TheFluxApex)
