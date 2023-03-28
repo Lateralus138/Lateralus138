@@ -1,23 +1,22 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lateralus138&layout=compact&repo=Lateralus138&bg_color=1d1d1d&theme=vision-friendly-dark&border_radius=16&fg_color=e2d2e2)
 
-1. [About](#about)
-   1. [Description](#description)
-   2. [Currently](#currently)
-   3. [Recently Released](#recently-released)
-   4. [Myself](#myself)
-      1. [Vague Statistics](#vague-statistics)
-      2. [Social Media](#social-media)
-         1. [Twitter](#twitter)
-         2. [Facebook](#facebook)
-         3. [DeviantArt](#deviantart)
-         4. [Email Me](#email-me)
-2. [Environments](#environments)
-   1. [Operating Systems](#operating-systems)
-   2. [What and Where](#what-and-where)
-      1. [Languages](#languages)
-      2. [Environment](#environment)
-3. [Support Me If You Like](#support-me-if-you-like)
-4. [Projects](#projects)
+- [About](#about)
+  - [Description](#description)
+  - [Currently](#currently)
+  - [Recently Released](#recently-released)
+  - [Myself](#myself)
+    - [Vague Statistics](#vague-statistics)
+    - [Social Media](#social-media)
+      - [Facebook](#facebook)
+      - [DeviantArt](#deviantart)
+      - [Email Me](#email-me)
+- [Environments](#environments)
+  - [Operating Systems](#operating-systems)
+  - [What and Where](#what-and-where)
+    - [Languages](#languages)
+    - [Environment](#environment)
+- [Support Me If You Like](#support-me-if-you-like)
+- [Projects](#projects)
 
 ---
 
@@ -83,11 +82,11 @@ Time spent in  this specific repository:
 
 You can find me on&#58;
 
-##### Twitter
+<!-- ##### Twitter
 
-[![Twitter Profile](docs/media/images/twitter_button.png)](https://twitter.com/TheFluxApex) [![Twitter Follow](docs/media/images/twitter_follow.png)](https://twitter.com/intent/user?screen_name=TheFluxApex)
+[![Twitter Profile](docs/media/images/twitter_button.png)](https://twitter.com/TheFluxApex) [![Twitter Follow](docs/media/images/twitter_follow.png)](https://twitter.com/intent/user?screen_name=TheFluxApex) -->
 
-<a href="https://twitter.com/intent/user?screen_name=TheFluxApex"><img src='https://img.shields.io/twitter/follow/TheFluxApex?label=Follow'></a>
+<!-- <a href="https://twitter.com/intent/user?screen_name=TheFluxApex"><img src='https://img.shields.io/twitter/follow/TheFluxApex?label=Follow'></a> -->
 
 ##### Facebook
 
@@ -204,4 +203,4 @@ Last Commit:
 
 [![WakaTime Logo](./docs/media/images/wakatime_logo.png)](https://www.wakatime.com/) [![GitHub Logo](./docs/media/images/octocat_logo.png)](https://www.github.com)
 
-[![TWITTER FOLLOW](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lateralus138/endpoints/master/docs/json/twitter_follow_thefluxapex.json&logo=twitter&link=https%3A%2F%2Ftwitter.com%2Fintent%2Fuser%3Fscreen_name%3DTheFluxApex)](https://twitter.com/intent/user?screen_name=TheFluxApex)
+<!-- [![TWITTER FOLLOW](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Lateralus138/endpoints/master/docs/json/twitter_follow_thefluxapex.json&logo=twitter&link=https%3A%2F%2Ftwitter.com%2Fintent%2Fuser%3Fscreen_name%3DTheFluxApex)](https://twitter.com/intent/user?screen_name=TheFluxApex) -->
